@@ -6,8 +6,16 @@ const quotes = [
         image: "images/bhi.jpg"
     },
     {
-        text: `my name is jeff`,
-        image: "images/jeff.jpg"
+        text: `Jelia: hinde
+        Jelia: 👏
+        Jelia: hinde
+        Jelia: hinde
+        Jelia: hinde
+        Jelia: 👏
+        Jelia: hinde
+        Vance: ok ka l;n g
+        Jelia: hinde`,
+        image: "images/hinde.jpg"
     },
     {
         text: `Vance: no shade i just thought real deep and hard on who ur past crushes were and the only thoughts that came to my head besides fake genshin people were faith and samantha r (the r stands for, rosary time na namen, please go back to your classroom)`,

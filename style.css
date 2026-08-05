@@ -63,8 +63,9 @@ body {
 
 #quote {
     font-size: 22px;
-    line-height: 1.6;
+    line-height: 1.8;
     white-space: pre-line;
+    font-family: "Century Gothic";
 }
 
 button {

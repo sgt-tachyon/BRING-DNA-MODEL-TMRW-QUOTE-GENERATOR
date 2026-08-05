@@ -26,7 +26,7 @@ btn.addEventListener("click", () => {
 
     quote.textContent = currentQuote.text;
 
-    viewPhoto.style.display = "block";
+    viewPhoto.style.display = "inline";
 });
 
 viewPhoto.addEventListener("click", () => {

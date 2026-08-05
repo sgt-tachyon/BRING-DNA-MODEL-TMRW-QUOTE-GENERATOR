@@ -1,7 +1,13 @@
 const quotes = [
-    `0pATLINHGt
-    ttyyj`,
-    `my name is jeff`,
+    {
+    text: `Jelia: who holds in their piss here
+    Pat: Hows yall work immersion going.`,
+    image: "images/work-immer.png"
+    },
+    {
+        text: `my name is jeff`,
+        image: "images/jeff.jpg"
+    },
 ];
 
 let quote = document.querySelector("#quote");

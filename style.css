@@ -87,3 +87,40 @@ button:hover {
     transform: translateY(-3px);
     box-shadow: 0 10px 18px rgba(82,124,224,.4);
 }
+
+.view-photo {
+    display: none;
+    color: rgb(82, 124, 224);
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+
+.view-photo:hover {
+    color: rgb(60, 100, 200);
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.8);
+
+    justify-content: center;
+    align-items: center;
+}
+
+.popup img {
+    max-width: 80%;
+    max-height: 80%;
+    border-radius: 10px;
+}
+
+#close {
+    position: absolute;
+    top: 30px;
+    right: 40px;
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+}

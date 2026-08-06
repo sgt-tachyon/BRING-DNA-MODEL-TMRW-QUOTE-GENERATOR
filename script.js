@@ -1,7 +1,7 @@
 const quotes = [
     {
         text: `Niko: girl fix your fucking feet😭`,
-        image: "images/fix-feet.jpg"
+        image: "images/fix-feet-text.png"
     },
     {
         text: `Jelia: hinde
@@ -41,6 +41,15 @@ const quotes = [
         Mar Jessi: Jelai
         Mar Jessi: Asan ka ?`,
         image: "images/jelai.jpg"
+    },
+    {
+        text: `Vance: girl im done switching back and forth
+        Vance: reply to me myssamege here
+        Vance: also why r u awake so earlu
+        Jelia: Yeah his penis is Nice
+        Jelia: Thought i don't really care about that anymore
+        Jelia: he's not a bad person`,
+        image: "images/pp.png"
     }
 ];
 

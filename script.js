@@ -1,7 +1,7 @@
 const quotes = [
     {
         text: `Niko: girl fix your fucking feet😭`,
-        image: "gallery/fix-feet.jpg"
+        image: "images/fix-feet.jpg"
     },
     {
         text: `Jelia: hinde

@@ -19,6 +19,18 @@ const galleryItems = [
     story: "placeholder text.",
     tags: ["burp", "burp", "butp"],
   },
+
+  {
+    title: "girl fix your fucking feet😭",
+    image: "gallery/fix-feet.jpg",
+    tags: ["Text"],
+  },
+
+  {
+    title: "Pose 28",
+    image: "gallery/pose28.jpg",
+    tags: ["Camera"],
+  },
 ];
 
 const gallery = document.getElementById("gallery");

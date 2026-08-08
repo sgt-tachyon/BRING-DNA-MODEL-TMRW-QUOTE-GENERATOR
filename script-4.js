@@ -12,19 +12,143 @@ document.querySelectorAll(".dropdown-btn").forEach((button) => {
 
 const dreams = {
   vance1: {
-    title: "Vance - Dream #1",
-    text: "Placeholder.",
+    title: "Shmarriott Orange: Orange sperm pills",
+    text: `Had the WEIRDEST ASS DREAM
+
+There was some sort of NBA Playoffs in a hotel, and us 3 were going to watch it in some huge arena inside of the hotel , during the intro though,  we were js fucking around, and KJERSTI FAITH G. MALATE was across from us but it never became that big of a deal
+
+Niko was there but something was wrong, it was like he was just a husk of a shell, or my tulpa presence like Zendaya in the Odyssey movie, became me and jelia took pics and he didn't wanna be in it, he was just... Sitting there
+
+Me and jelia took pics because we didn't take pics last time during central mall and SHE WENT IN the ticketing booth with the guy in it but he was chill as hell and wee were being kind of annoying blocking the line of people wanting their tickets, we took rrrrueeeelllll Cuuueeee photos cuz apparently the ticketing booth suddenly vapozired and it became this platform with club lights and I took a burst shot , then we went back. To Niko as we were scrolling. Through the pics and one of them was kinda funny
+
+I was gonna show y'all
+
+But I got a notif from bela??
+
+Apparently there was a party up top in the hotel nroof top, and I didn't even exit the arena, it just discombobulated into the hotel grounds, and I knew I was supposed to get ready for something
+
+I went back to my messy ass hotel room to prepare, and bela kept calling where I am, at one point her and ferly (apparently she was also I. The party) came in my room and I told them, sorry about the mess, I'm rooming w 2 other guys
+
+Anyway it was heavily implied it was a sex party💀💀☠️ and I left my room, and had 2 bottles of pills, orange, shaped like nerds, and and I downed it all, I was ready to go up, but I couldn't find the location for the life of me and I went inside this store in the hotel that sold the same stuff of pills I downed except they had some bigger sizes on display along with the pill, and what they did 
+
+Even though it was a dream I could read that it "increased sperm content" ☠️☠️☠️💀 or something
+
+I never could find the way up, I was just running around the hotel grounds 
+
+I forgot what happened after that, I think the hotel phased into the room I was sleeping in because my REM and awake self were hearing the people going inside my room Being LOUD asf.`,
   },
   vance2: {
-    title: "Vance - Dream #2",
-    text: "Placeholder.",
+    title: "Untitled pero may laman hahahah",
+    text: `Act. 1:
+
+Dream started off in some rich air bnb my family and cousins from Bicol were staying in for a holiday, this part was lowk boring basta there was a party, people my age were there, and there was a zombie event , we all had toy guns, i wad one of the first infected,  but i turned to a survivor and ran into a room with people and locked ourselves in, people tried to go in, blah blah blah, basta yun
+
+Act. 2: Neil fucking dies
+
+We were at school, there was a marathon of some sort, and we had to run up this steep stairway (no steps  so it was just a slant going gradually up  Ms208 was all going up then i was falling behind with some others bcs i was really tired and i was wearing my chunky shoes.
+
+Neil, francis, and some other people were there, Neil called like ? Someone, renz idk, sabi daw mag rarace sila,  when it started, they both climbed up on all fours (yeah it was THAT steep), then neil accidentally slid down and he didnt move.
+
+Everyone ( who hasnt gotten far ahead)of course rushed in immediately,  francis checked his pulse, he said it was beating but he still wasnt moving, I went down, we called 911
+
+He then rose up, i didnt wanna look, francis was wiping him with a paper bag, but when i went down thankfully it wasnt that bloody, we  went on a trycicle to get some help.
+
+Act. 3: ANDY SOBISOL.
+
+When we got into the trycicle, the plot changed, francis was still thwre except he was the one driving the trycicle and I was next to Andy fsr??💀 we both knew it was us   , and we sat awkwardly with each other (our seat was infront of the tryci)
+
+UNTIL we were crossing a school zone, and we both saw SAM Lorenzo and a bunch of her other friends hanging outisde , we all made eye contact in a split second.
+
+I then started conversation after the long awk silence
+
+So... Nakita morin ba si Sam
+(Usually i wouldve not talk, but in this moment it was kinda funny because we both knew, and might as well to break the ice)
+
+We then talked about how funny it was
+
+Then the mood shifted, she was super gloomy when we started to reminisce during grade 3
+
+I dont remeber how the convo went out pero
+
+About sam
+Then about grade 3
+About how close we used to be
+
+Then I realized that she had a crush on me back then💀💀
+
+So i was like, well we were kids, and im pretty sure our rift fell apart when Jessie Caryl Lindog (her other bsf) came into play. We were vibing w each other, and we played alot during dissmisal, then we fell off
+
+She was always kinda mad at me back then, and she revealed that she felt hurt because i was giving her more attention than us
+
+But then I really started to realize she was REALLY deeply hurt, because SHE STILL HASNT MOVED ON?? 
+
+She said even now, it was still impossible because i was GAY
+
+basta yun, we went back and forth about the past and i assured her that eitherway, nothing woukd have happened between us. . .
+
+
+ACT. 4: Dilemma of ANDY SOBISOL
+
+
+Mind you, we were still in a trycicle, and francis was driving
+
+
+She then became super cryptic, throwing out REALLY scary flags,
+
+
+She said something along the lines of her life has no meaning,  THEN SHE PULLED OUT A GUN. AND TRIED TO SHOOT KILL HERSELF.
+
+
+But i was able to grab the gun away from her, and put her body in lock, I alerted francis to take the gun away, I told him to find a police station so we can safely dispose of the gun and they could handle the situation
+
+
+Andy was trying to get her phone, but i held her until we got to a mini police station with just a front desk guy  (i was looking for jail bars pero wala ), i told him about the gun, and we gave it but other than that, they couldnt help. She was now frantic, screaming for help and said she didnt wanna get arrested
+
+
+Act. 5: c h a n g e 🖤
+
+
+So we tried different parts of whatever butt fuck barangay we were in, until we were in a meth lab, and one of the guys TURNED ANDY into a tiny bug ??
+
+
+I was there the whole time, i mean yeah  it was certainly better than her being dead
+
+
+She was signing to me get her phone  and I gave to her, her password was the tiny N sa gilid na pattern 💀💀, and i was too angry at everything to notice ,but she changed her password, and called for her contacts but just got in the nick of time and turned the phone off
+
+
+She tried again, idk why I just didjt take the phone away, but now shes sending 9999 pics of cctv screen shots idk HOW she managed to obtain to one of her contacts with a help message (mind you  she was still a SMALL TINY BUG)
+
+
+I realized what was happening while i was catching peeks here and there on what phone brand she had💀💀 I figured if she was gonna kill herself bevause of me, might as well take her phone, but it was the even SLOWER OLD Model of Samsung, so i took her phone as she was about to press send
+
+
+Basta the scene after this, I was on both and neither sides at the same time, Im glad shes now asking for help  ,but at the same time i was yelling at the drug dealers to fix what they did to her, so i was keeping her from asking for help  since I did think this shit was real LMFAOO, and i didnt wanna go to court and get arrested ,because nobody would believe my story and my only witness was francis
+
+
+I was yelling at the drug dealers for an antidote of whatever they gave her  then it turned into a third person disney narration view ??????  The camera panned to Bug andy, and she saw how I wanted to save her, which made her not wanna kill herself ig
+
+
+Act. 6: 6725252c-9b12-3848-aa42-7e3fada6bd61. 
+
+
+Then the scene/plot line ended abruptly on that, all i knew was that she forgived me for being gay and herself for being fucking stupid,  it was hapon, and i was in school (idk why but in my dreams its NEVER mapua, its always imma with a mix of something weird), i went to a table where Niko and Gill were sittng where  clearly SOMETHING happened , gill had messy hsir and her eyes were puffy, and niko was drinking a Heineken out in the open scrolling through tt💀💀 
+
+
+I sat with them and told them how tired I was and i noticed petition signers at the back and i mocked then while gill fucking stares at me because she was yoked the fuck out , but apparently it was for a Saw Movie, so i did became intrested
+
+yeah this act fucking sucks basta I knew there was legal implications on what i did, i just both knew and was oblivious that i was in a dream, so i wanted to get everything fixed before i "wake up" if i do that is
+
+After that we left the table and some guy from a diff section walked past by us and he was full on checking me out and i pretended not to notice💀💀  we were both eyeing each other  and THIS ALL HAPPENED AT THE FRONT OF THE MAMA MARY STATUE, NEAR REGISTRAR💀💀
+
+and i woke up because my dog was loud as hell.`,
   },
   vance3: {
-    title: "Vance - Dream #3",
+    title: "Vance - Dream #3 empty",
     text: "Placeholder.",
   },
   jelia1: {
-    title: "Jelia - Dream #1",
+    title: "Monik",
     text: `Tw// GENUINELY WEIRD
 i had a dream where i was at a mapua party (didnt look like the campus much, it looked like a real venue but its canonically mapua.) i was like honestly pretty drunk at this point so i was gonna leave. as i was exiting the venue/campus, i was saying bye to friends who i'd pass by (like irl grade school and old school friends).
 
@@ -50,11 +174,11 @@ after all this bullshit, i walked out the parking lot for good and immediately w
 okay obviously some parts of the dream are blurry, especially the specific details of the orgies. but it was literally as i described it, just a porn trafficking scheme. also dont remember val's exact line in the end but it was something along invalidating my need for FUCKING HELP AFTER BEING VIOLATED.`,
   },
   jelia2: {
-    title: "Jelia - Dream #2",
+    title: "Jelia - Dream #2 empty",
     text: "Placeholder.",
   },
   jelia3: {
-    title: "Jelia - Dream #3",
+    title: "Jelia - Dream #3 empty",
     text: "Placeholder.",
   },
   niko1: {
@@ -93,7 +217,7 @@ she then said “so youre not jill. you dont know about jill??”
 i then recognised that name from our school group chat bc she was always the one texting there. her pfp was creepy too.`,
   },
   niko3: {
-    title: "Niko - Dream #3",
+    title: "Niko - Dream #3 empty",
     text: "Placeholder text.",
   },
 };

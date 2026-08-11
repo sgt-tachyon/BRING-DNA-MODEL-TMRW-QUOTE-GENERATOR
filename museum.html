@@ -1,53 +1,77 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Museum</title>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Museum</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 
-    <link rel="stylesheet" href="style.css" />
-  </head>
+<body id="museum-body">
 
-  <body id="museum-body">
-    <nav class="navbar">
-      <a id="home" href="index.html"> Bring DNA Model Quote Generator </a>
-      <a id="patlink" href="patlings.html"> Patlings Quote Generator </a>
-      <a id="museum" href="museum.html"> Museum </a>
-      <a id="dream" href="dream.html">Dream Catcher</a>
-    </nav>
+  <nav class="navbar">
+    <a id="home" href="index.html">Bring DNA Model Quote Generator</a>
+    <a id="patlink" href="patlings.html">Patlings Quote Generator</a>
+    <a id="museum" href="museum.html">Museum</a>
+    <a id="dream" href="dream.html">Dream Catcher</a>
+  </nav>
 
-    <h1 id="title">Museum</h1>
+  <h1 id="title">Museum</h1>
 
-    <div class="museum-layout">
+  <div class="museum-layout">
 
-      <div class="gallery-panel">
-        <h2>Gallery</h2>
-
-        <div class="gallery-grid" id="gallery"></div>
-      </div>
-
-      <div class="preview-panel">
-        <img id="preview-image" src="" alt="Preview Image" />
-
-        <div class="image-info">
-          <h2 id="photo-title">Select a photo</h2>
-
-          <p id="photo-story">Click a thumbnail to view the story.</p>
-
-          <h3>Tags</h3>
-
-          <div id="photo-tags"></div>
-        </div>
-      </div>
+    <div class="gallery-panel">
+      <h2>Gallery</h2>
+      <div class="gallery-grid" id="gallery"></div>
     </div>
 
-    <div id="popup" class="popup">
-      <span id="close"> &times; </span>
+    <div class="preview-panel">
 
-      <img id="popup-img" alt="Full Image" />
+      <div class="preview-media">
+
+        <img id="preview-image" src="" alt="Preview Image" style="display:none;">
+
+        <video id="preview-video" controls playsinline preload="metadata" style="display:none;"></video>
+
+      </div>
+
+      <div class="image-info">
+
+        <h2 id="photo-title">Select a photo</h2>
+
+        <p id="photo-story">
+          Click a thumbnail to view the story.
+        </p>
+
+        <h3>Tags</h3>
+
+        <div id="photo-tags"></div>
+
+      </div>
+
     </div>
 
-    <script src="script-3.js"></script>
-  </body>
+  </div>
+
+  <section class="audio-panel">
+
+    <h2>Audio</h2>
+
+    <div id="audio-gallery" class="audio-list"></div>
+
+  </section>
+
+  <div id="popup" class="popup">
+
+    <span id="close">&times;</span>
+
+    <div id="popup-media"></div>
+
+  </div>
+
+  <script src="script-3.js"></script>
+
+</body>
+
 </html>

@@ -288,7 +288,7 @@ const galleryItems = [
   {
     type: "image",
     title: "Triple Mog",
-    src: "gallery/triple-mog.jpg",
+    src: "gallery/triple-mog.png",
     tags: ["Photo", "Camera", "Mogs"],
   },
 
@@ -316,7 +316,7 @@ const galleryItems = [
   {
     type: "image",
     title: "Not Like Usual Self",
-    src: "gallery/usual-self.jpg",
+    src: "gallery/usual-self.png",
     tags: ["Photo"],
   },
 

@@ -121,7 +121,7 @@ const galleryItems = [
     type: "image",
     title: "Marlaika at Gun Point",
     src: "gallery/marlaika-gun.jpg",
-    tags: ["Photos", "Camera"],
+    tags: ["Photo", "Camera"],
   },
 
   {
@@ -149,7 +149,7 @@ const galleryItems = [
     type: "image",
     title: "IHMCP Letters",
     src: "gallery/imma-letters.jpg",
-    tags: ["Photo"],
+    tags: ["Photo", "IHMCP"],
   },
 
   {
@@ -163,6 +163,195 @@ const galleryItems = [
     type: "image",
     title: "Jelia If She Was From Mandela Catalogue",
     src: "gallery/jelia-mandela.jpg",
+    tags: ["Photo"],
+  },
+
+  {
+    type: "image",
+    title: "Tomas Simpson",
+    src: "gallery/tomas-simpson.png",
+    tags: ["Photo", "Text"],
+  },
+
+  {
+    type: "image",
+    title: "Vance Small Glasses",
+    src: "gallery/vance-glasses.jpg",
+    tags: ["Photo", "Camera"],
+  },
+
+  {
+    type: "image",
+    title: "OBEY",
+    src: "gallery/obey.jpg",
+    tags: ["Photo", "Camera", "IHMCP"],
+  },
+
+  {
+    type: "image",
+    title: "QUICHO GAINS🔥🔥🔥💪💪",
+    src: "gallery/quicho-gains.jpg",
+    tags: ["Photo", "Camera"],
+  },
+
+  {
+    type: "image",
+    title: "Nightmare Blunt Rotation",
+    src: "gallery/nightmare-blunt-rotation.jpg",
+    tags: ["Photo", "IHMCP"],
+  },
+
+  {
+    type: "image",
+    title: "Amp",
+    src: "gallery/amp.jpg",
+    tags: ["Photo", "Camera"],
+  },
+
+  {
+    type: "image",
+    title: "Vance Mog",
+    src: "gallery/vance-mog.jpg",
+    tags: ["Photo", "Camera", "Mogs"],
+  },
+
+  {
+    type: "video",
+    title: "Jelia's Coming to Town",
+    src: "gallery/jelias-coming-to-town.mp4",
+    tags: ["Video", "Camera"],
+  },
+
+  {
+    type: "image",
+    title: "Kyle, sino nagtanong?",
+    src: "gallery/sino-nagtanong.jpg",
+    tags: ["Photo", "Camera", "IHMCP"],
+  },
+
+  {
+    type: "video",
+    title: "Jophers Anime",
+    src: "gallery/joph-anime.mp4",
+    tags: ["Video", "IHMCP"],
+  },
+
+  {
+    type: "video",
+    title: "Walang Nanay",
+    src: "gallery/walang-nanay.mp4",
+    tags: ["Video", "IHMCP"],
+  },
+
+  {
+    type: "image",
+    title: "Gabriel Santos Kawaii Nap",
+    src: "gallery/gsantos-sleep.jpg",
+    tags: ["Video", "Camera"],
+  },
+
+  {
+    type: "image",
+    title: "Warrian Javert",
+    src: "gallery/roblox-javert.png",
+    tags: ["Photo", "Game", "IHMCP"],
+  },
+
+  {
+    type: "image",
+    title: "3 Cheese Panini",
+    src: "gallery/3cheese-panini.png",
+    tags: ["Photo", "Game", "IHMCP"],
+  },
+
+  {
+    type: "image",
+    title: "My Thursday",
+    src: "gallery/my-thursday.jpg",
+    tags: ["Photo"],
+  },
+
+  {
+    type: "image",
+    title: "🧍‍♀️",
+    src: "gallery/jelia-stand.png",
+    tags: ["Photo", "Camera"],
+  },
+
+  {
+    type: "image",
+    title: "Malate Fire",
+    src: "gallery/malate-fire.jpg",
+    tags: ["Photo", "IHMCP"],
+  },
+
+  {
+    type: "image",
+    title: "Triple Mog",
+    src: "gallery/triple-mog.jpg",
+    tags: ["Photo", "Camera", "Mogs"],
+  },
+
+  {
+    type: "image",
+    title: "No To Divorce Bill😝",
+    src: "gallery/no-divorce.jpg",
+    tags: ["Photo", "Camera"],
+  },
+
+  {
+    type: "image",
+    title: "Lol me su ugly XDDDDDD",
+    src: "gallery/me-su-ugly.jpg",
+    tags: ["Photo", "Text"],
+  },
+
+  {
+    type: "video",
+    title: "Niko Edit",
+    src: "gallery/darna.mp4",
+    tags: ["Video", "Edit"],
+  },
+
+  {
+    type: "image",
+    title: "Not Like Usual Self",
+    src: "gallery/usual-self.jpg",
+    tags: ["Photo"],
+  },
+
+  {
+    type: "video",
+    title: "Omegaverse",
+    src: "gallery/omegaverse.mp4",
+    tags: ["Video", "Edit"],
+  },
+
+  {
+    type: "image",
+    title: "RJ 33/alpha/🥀⛓️/bad boy",
+    src: "gallery/rj-alpha.jpg",
+    tags: ["Photo"],
+  },
+
+  {
+    type: "video",
+    title: "Jelia and vance Dance",
+    src: "gallery/jeliance-dance.mp4",
+    tags: ["Video", "Camera"],
+  },
+
+  {
+    type: "image",
+    title: "Aisac Peek",
+    src: "gallery/aisac-peek.jpg",
+    tags: ["Photo"],
+  },
+
+  {
+    type: "image",
+    title: "i love da beach",
+    src: "gallery/love-da-beach.jpg",
     tags: ["Photo"],
   },
 ];
@@ -191,7 +380,7 @@ const audioGallery = document.getElementById("audio-gallery");
 
 function showMedia(item) {
   photoTitle.textContent = item.title;
-  photoStory.textContent = item.story || "No story available.";
+  photoStory.textContent = item.story || "";
   photoTags.innerHTML = "";
 
   if (item.tags) {

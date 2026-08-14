@@ -41,14 +41,12 @@ const galleryItems = [
     story: "",
     tags: ["bup"],
   },
-
   {
     type: "image",
     title: "Jaeyisna Mii World",
     src: "gallery/jaeyisna-miiworld.jpg",
     tags: ["Game"],
   },
-
   {
     type: "video",
     title: "Canon Interaction",
@@ -57,7 +55,6 @@ const galleryItems = [
     story: "Jelia and Vance Nintendo Mii Interaction",
     tags: ["Video", "Camera", "Game"],
   },
-
   {
     type: "image",
     title: "Niko PP",
@@ -65,7 +62,6 @@ const galleryItems = [
     story: "paa ko yan ah syempre hindi yan ano HAHAHAH",
     tags: ["Camera"],
   },
-
   {
     type: "video",
     title: "Anime Comp",
@@ -73,7 +69,6 @@ const galleryItems = [
     poster: "gallery/anime.mp4",
     tags: ["Video", "Edit"],
   },
-
   {
     type: "video",
     title: "Reality is Lemons ☆*: .｡. o(≧▽≦)o .｡.:*☆",
@@ -81,278 +76,252 @@ const galleryItems = [
     poster: "gallery/reality-is-lemons.mp4",
     tags: ["Video", "Edit"],
   },
-
   {
     type: "image",
     title: "Gab Santos FNAF",
     src: "gallery/gsantos-fnaf.jpg",
     tags: ["Photo"],
   },
-
   {
     type: "image",
     title: "Jelia Choke",
     src: "gallery/jelia-choke.jpg",
     tags: ["Photo"],
   },
-
   {
     type: "image",
     title: "Femboy Santos",
     src: "gallery/gsantos-femboy.jpg",
     tags: ["Photo"],
   },
-
   {
     type: "image",
     title: "Vance Peek",
     src: "gallery/vance-peek.jpg",
     tags: ["Photo", "Camera"],
   },
-
   {
     type: "image",
     title: "Fonsine",
     src: "gallery/fonsine.jpg",
     tags: ["Photo"],
   },
-
   {
     type: "image",
     title: "Marlaika at Gun Point",
     src: "gallery/marlaika-gun.jpg",
     tags: ["Photo", "Camera"],
   },
-
   {
     type: "image",
     title: "Jelia MOA",
     src: "gallery/jelia-moa.jpg",
     tags: ["Photo", "Camera"],
   },
-
   {
     type: "image",
     title: "KMS",
     src: "gallery/kms-russ.jpg",
     tags: ["Photo"],
   },
-
   {
     type: "image",
     title: "Bleh",
     src: "gallery/jelia-bleh.jpg",
     tags: ["Photo"],
   },
-
   {
     type: "image",
     title: "IHMCP Letters",
     src: "gallery/imma-letters.jpg",
     tags: ["Photo", "IHMCP"],
   },
-
   {
     type: "image",
     title: "17 and 11🥰",
     src: "gallery/17-11.jpg",
     tags: ["Photo", "Camera"],
   },
-
   {
     type: "image",
     title: "Jelia If She Was From Mandela Catalogue",
     src: "gallery/jelia-mandela.jpg",
     tags: ["Photo"],
   },
-
   {
     type: "image",
     title: "Tomas Simpson",
     src: "gallery/tomas-simpson.png",
     tags: ["Photo", "Text"],
   },
-
   {
     type: "image",
     title: "Vance Small Glasses",
     src: "gallery/vance-glasses.jpg",
     tags: ["Photo", "Camera"],
   },
-
   {
     type: "image",
     title: "OBEY",
     src: "gallery/obey.jpg",
     tags: ["Photo", "Camera", "IHMCP"],
   },
-
   {
     type: "image",
     title: "QUICHO GAINS🔥🔥🔥💪💪",
     src: "gallery/quicho-gains.jpg",
     tags: ["Photo", "Camera"],
   },
-
   {
     type: "image",
     title: "Nightmare Blunt Rotation",
     src: "gallery/nightmare-blunt-rotation.jpg",
     tags: ["Photo", "IHMCP"],
   },
-
   {
     type: "image",
     title: "Amp",
     src: "gallery/amp.jpg",
     tags: ["Photo", "Camera"],
   },
-
   {
     type: "image",
     title: "Vance Mog",
     src: "gallery/vance-mog.jpg",
     tags: ["Photo", "Camera", "Mogs"],
   },
-
   {
     type: "video",
     title: "Jelia's Coming to Town",
     src: "gallery/jelias-coming-to-town.mp4",
     tags: ["Video", "Camera"],
   },
-
   {
     type: "image",
     title: "Kyle, sino nagtanong?",
     src: "gallery/sino-nagtanong.jpg",
     tags: ["Photo", "Camera", "IHMCP"],
   },
-
   {
     type: "video",
     title: "Jophers Anime",
     src: "gallery/joph-anime.mp4",
     tags: ["Video", "IHMCP"],
   },
-
   {
     type: "video",
     title: "Walang Nanay",
     src: "gallery/walang-nanay.mp4",
     tags: ["Video", "IHMCP"],
   },
-
   {
     type: "image",
     title: "Gabriel Santos Kawaii Nap",
     src: "gallery/gsantos-sleep.jpg",
     tags: ["Video", "Camera"],
   },
-
   {
     type: "image",
     title: "Warrian Javert",
     src: "gallery/roblox-javert.png",
     tags: ["Photo", "Game", "IHMCP"],
   },
-
   {
     type: "image",
     title: "3 Cheese Panini",
     src: "gallery/3cheese-panini.png",
     tags: ["Photo", "Game", "IHMCP"],
   },
-
   {
     type: "image",
     title: "My Thursday",
     src: "gallery/my-thursday.jpg",
     tags: ["Photo"],
   },
-
   {
     type: "image",
     title: "🧍‍♀️",
     src: "gallery/jelia-stand.png",
     tags: ["Photo", "Camera"],
   },
-
   {
     type: "image",
     title: "Malate Fire",
     src: "gallery/malate-fire.jpg",
     tags: ["Photo", "IHMCP"],
   },
-
   {
     type: "image",
     title: "Triple Mog",
     src: "gallery/triple-mog.png",
     tags: ["Photo", "Camera", "Mogs"],
   },
-
   {
     type: "image",
     title: "No To Divorce Bill😝",
     src: "gallery/no-divorce.jpg",
     tags: ["Photo", "Camera"],
   },
-
   {
     type: "image",
     title: "Lol me su ugly XDDDDDD",
     src: "gallery/me-su-ugly.jpg",
     tags: ["Photo", "Text"],
   },
-
   {
     type: "video",
     title: "Niko Edit",
     src: "gallery/darna.mp4",
     tags: ["Video", "Edit"],
   },
-
   {
     type: "image",
     title: "Not Like Usual Self",
     src: "gallery/usual-self.png",
     tags: ["Photo"],
   },
-
   {
     type: "video",
     title: "Omegaverse",
     src: "gallery/omegaverse.mp4",
     tags: ["Video", "Edit"],
   },
-
   {
     type: "image",
     title: "RJ 33/alpha/🥀⛓️/bad boy",
     src: "gallery/rj-alpha.jpg",
     tags: ["Photo"],
   },
-
   {
     type: "video",
     title: "Jelia and vance Dance",
     src: "gallery/jeliance-dance.mp4",
     tags: ["Video", "Camera"],
   },
-
   {
     type: "image",
     title: "Aisac Peek",
     src: "gallery/aisac-peek.jpg",
     tags: ["Photo"],
   },
-
   {
     type: "image",
     title: "i love da beach",
     src: "gallery/love-da-beach.jpg",
     tags: ["Photo"],
+  },
+  {
+    type: "pdf",
+    title: "Jaeyisna Covid Comic",
+    src: "pdf/jelia-covid.pdf",
+    pages: 4,
+    tags: ["PDF"],
+  },
+  {
+    type: "pdf",
+    title: "Saki Jamboard",
+    src: "pdf/saki.pdf",
+    tags: ["PDF"],
   },
 ];
 
@@ -367,7 +336,10 @@ const audioItems = [
   },
 ];
 
-const gallery = document.getElementById("gallery");
+const mediaGallery = document.getElementById("media-gallery");
+const pdfGallery = document.getElementById("pdf-gallery");
+const galleryMediaTab = document.getElementById("gallery-media-tab");
+const galleryPdfTab = document.getElementById("gallery-pdf-tab");
 const previewImage = document.getElementById("preview-image");
 const previewVideo = document.getElementById("preview-video");
 const photoTitle = document.getElementById("photo-title");
@@ -378,7 +350,7 @@ const popupMedia = document.getElementById("popup-media");
 const close = document.getElementById("close");
 const audioGallery = document.getElementById("audio-gallery");
 
-function showMedia(item) {
+function updateInfo(item) {
   photoTitle.textContent = item.title;
   photoStory.textContent = item.story || "";
   photoTags.innerHTML = "";
@@ -388,38 +360,53 @@ function showMedia(item) {
       const tagElement = document.createElement("span");
       tagElement.className = "tag";
       tagElement.textContent = tag;
+
       tagElement.addEventListener("click", (event) => {
         event.stopPropagation();
         alert("Tag: " + tag);
       });
+
       photoTags.appendChild(tagElement);
     });
   }
+}
+
+function hideAllPreviewMedia() {
+  previewImage.style.display = "none";
+  previewVideo.style.display = "none";
+}
+
+function showMedia(item) {
+  updateInfo(item);
+  hideAllPreviewMedia();
+
+  previewVideo.pause();
+  previewVideo.removeAttribute("src");
+  previewVideo.removeAttribute("poster");
+  previewVideo.load();
+  previewImage.removeAttribute("src");
 
   if (item.type === "image") {
-    previewVideo.pause();
-    previewVideo.removeAttribute("src");
-    previewVideo.removeAttribute("poster");
-    previewVideo.load();
-    previewVideo.style.display = "none";
     previewImage.src = item.src;
     previewImage.alt = item.title;
     previewImage.style.display = "block";
   } else if (item.type === "video") {
-    previewImage.removeAttribute("src");
-    previewImage.style.display = "none";
     previewVideo.src = item.src;
+
     if (item.poster) {
       previewVideo.poster = item.poster;
-    } else {
-      previewVideo.removeAttribute("poster");
     }
+
     previewVideo.style.display = "block";
     previewVideo.load();
   }
 }
 
-galleryItems.forEach((item) => {
+function openPdf(item) {
+  window.open(item.src, "_blank", "noopener,noreferrer");
+}
+
+function createMediaCard(item) {
   const card = document.createElement("div");
   card.className = "gallery-item";
 
@@ -459,8 +446,53 @@ galleryItems.forEach((item) => {
     showMedia(item);
   });
 
-  gallery.appendChild(card);
+  mediaGallery.appendChild(card);
+}
+
+function createPdfCard(item) {
+  const card = document.createElement("div");
+  card.className = "pdf-card";
+
+  const title = document.createElement("div");
+  title.className = "pdf-card-title";
+  title.textContent = item.title;
+
+  card.appendChild(title);
+
+  card.addEventListener("click", () => {
+    openPdf(item);
+  });
+
+  pdfGallery.appendChild(card);
+}
+
+galleryItems.forEach((item) => {
+  if (item.type === "pdf") {
+    createPdfCard(item);
+  } else {
+    createMediaCard(item);
+  }
 });
+
+function showGallerySection(section) {
+  const showMedia = section === "media";
+
+  mediaGallery.style.display = showMedia ? "grid" : "none";
+  pdfGallery.style.display = showMedia ? "none" : "flex";
+
+  galleryMediaTab.classList.toggle("active", showMedia);
+  galleryPdfTab.classList.toggle("active", !showMedia);
+}
+
+galleryMediaTab.addEventListener("click", () => {
+  showGallerySection("media");
+});
+
+galleryPdfTab.addEventListener("click", () => {
+  showGallerySection("pdf");
+});
+
+showGallerySection("media");
 
 previewImage.addEventListener("click", () => {
   if (previewImage.src) {

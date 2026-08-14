@@ -9,69 +9,54 @@
 </head>
 
 <body id="museum-body">
-
   <nav class="navbar">
     <a id="home" href="index.html">Bring DNA Model Quote Generator</a>
     <a id="patlink" href="patlings.html">Patlings Quote Generator</a>
     <a id="museum" href="museum.html">Museum</a>
-    <a id="dream" href="dream.html">Dream Catcher</a>
+    <a id="tangent" href="tangents.html">Tangents</a>
   </nav>
 
   <h1 id="title">Museum</h1>
 
   <div class="museum-layout">
-
     <div class="gallery-panel">
       <h2>Gallery</h2>
-      <div class="gallery-grid" id="gallery"></div>
+
+      <div class="gallery-tabs">
+        <button id="gallery-media-tab" class="gallery-tab active" type="button">Photos & Videos</button>
+        <button id="gallery-pdf-tab" class="gallery-tab" type="button">PDFs</button>
+      </div>
+
+      <div class="gallery-grid" id="media-gallery"></div>
+      <div class="pdf-gallery" id="pdf-gallery"></div>
     </div>
 
     <div class="preview-panel">
-
-      <div class="preview-media">
-
+      <div class="preview-media" id="preview-media">
         <img id="preview-image" src="" alt="Preview Image" style="display:none;">
-
         <video id="preview-video" controls playsinline preload="metadata" style="display:none;"></video>
-
       </div>
 
       <div class="image-info">
-
         <h2 id="photo-title">Select a photo</h2>
-
-        <p id="photo-story">
-          Click a thumbnail to view the story.
-        </p>
-
+        <p id="photo-story">Click a thumbnail to view the story.</p>
         <h3>Tags</h3>
-
         <div id="photo-tags"></div>
-
       </div>
-
     </div>
-
   </div>
 
   <section class="audio-panel">
-
     <h2>Audio</h2>
-
     <div id="audio-gallery" class="audio-list"></div>
-
   </section>
 
   <div id="popup" class="popup">
-
     <span id="close">&times;</span>
-
     <div id="popup-media"></div>
-
   </div>
 
   <script src="script-3.js"></script>
-
 </body>
 
 </html>

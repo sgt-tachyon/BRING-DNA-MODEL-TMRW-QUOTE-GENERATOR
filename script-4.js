@@ -130,8 +130,103 @@ and i woke up because my dog was loud as hell.`,
   },
 
   vance3: {
-    title: "Vance - Dream #3 empty",
-    text: "Placeholder.",
+    title: "Placeholder Title | Vance",
+    text: `Act I: KC FUCKING DIES
+
+Niko and jelia and me were going to this amusement park, niko and jelia (for the 99999th times in my dream💀💀) went on ahead because i was late, they lined up to go on the ferris wheel, and bcs i was late i was searching for it, but i forgot what it looked like so i went up the footbridge to see where they are, this footbrige was infront of the ferris wheel i was looking for, and it was already spinning, I NOTICED  alot imma members in the seats like SAM LORENZO, WARRIK, CZA, FONSI, so i went in when it freshly stopped and i seated with Monique and Kc, Both of them didnt notice me after a minute but then KC said Hi, and i said hj back then the ride started goijg  and it went really fast, so fast that our seat LAUNCHED INTO the air, i felt the air velocity, and our cabbie fell in the ground. I got up pretty quickly,  and mon too, but when we checked up on  Kc, she was doing the family guy pose💀💀💀 and it was heavily implied she DIED....
+
+Act II: Pats House Hangout, BUT WITH A TWIST?!
+
+then it suddenly started raining , and it rained really hard, everyone started to run for shelter and LEFT KC'S BODY ON THE GROUND😭😭😭, i parkoued up some pipes fsr, but i knew where i was going, i was still in the amusement park, but this part was pretty chill and desolate, i saw this floating hut in the river with alot of random pipes, and i went in, and there was prince, francis, ced, bela, hellene, lau, pat? Idk i didnt really notice if he was there, also idfk what hapened to jelia and niko atp💀, anyway we were js hanging out, hellene, as always was on the verge of  eeping in the shaky hut in the water, but i was just ogling francis because hotdogateria zoo wee mama he was wearing shorts, THEN it started raining really hard, the hut was shaking furiously and i took another look outside.... the RIVER was actually filled with flowing shit, the random pipes were actually sewage pipes, and the slow river we were at, was in fact... a fucking sewage disposal💀💀, since the hut started to sway back and forth like a small canoe in the middle of the ocean during a storm, the brown poo water started to get in, but everyone was pretty calm , even if DOO DOO BITS were flying everywhere, we were also wearing cute bongga fits too, anyway,  I parkoured  out of there, now seeing how much shit and grime is overflowing, that i need to step carefully not to step on shit while traversing thru the pipes system, and this place was high too, no roof cover, just a really weird sewage treatment center thats on top of the amusement park.
+
+Act III: boring family outing
+Ok this part is boring basically the scene transitioned to just me and my family going "sumwhere" and we were all moving by floating like we were in a floatinf invisible vehicle whatever the fuck, then we went to this really familiar square buissness district that I knew the ropes of already, because im pretty sure ive seen it in a past dream that i know which malls and shops are which, to keep it short we waited in a grocery, yada yada yah, i saw  some immaculatinians and i didnt want them to see me💀💀 so i was covering my face with paper and making it seem like i was reading something`,
+  },
+
+  vance4: {
+    title: "Title | Vance",
+    text: `I had a virus dream which 8s recurring for me, idk what it means but it I download something because i really need it, like an app, then my phone spazzes out and the virus starts downloading other apps, my course of action would alwzys be to try to go to settings, but the virus always stops me.
+
+It happened again. The funny thing is that i downloaded it off the play store, idk how strong the anti virus there is, but id assume you wont get a creepypasta glitch virus phone, when that started happening, I went throught settings>apps and tried to find the apps it installed but it was stopping me with pop ups n shi
+
+I triednto then download avast💀💀
+
+Not sure if it worked or not since the dream switched and did a 360 on its storysline
+
+
+I knew i was in final destination, i got a preminition of the things about to happen, and when i got back to myself, i was in some sort of event area, not much people around, basta yada^2, i ran and avoided all death, i made all the "precautions" like covering my nape💀💀, avoiding all deaths ish stuff WHEN i was running outside
+
+Idk if i died i woke up bcs i had to pee`,
+  },
+
+  vance5: {
+    title: "Placeholder Title | Vance",
+    text: `1 hour dreams r the worst bcz they tend to be nightmares 
+
+I fell asleep and it started as me going upstairs at midnight, the lights were off and then my view started glitching and these people in weird nun costumes suddenly appeared in the gate of our house  (the gate going into our house connected from the outside are up some stairs going to us) ofc, I felt scared and suddenly started calling out to my parents, bubbles started to form around me and I felt drowsy and I blacked out
+
+When I woke up, I was in my room except I was locked in and boarded up
+
+I still had my phone but I knew something was really wrong, it was about to die (like always) and I didnt have a charger, I didnt know what to do but it's heavily implied in the dream that alot of time has passed since I blacked out, so I have no idea WHO brought me back upstairs, and what happened while I was out
+
+I started strategizing on how to get out, the windows were boarded up but they were still transparent, so I knew making noise by breaking it off wasn't an option
+
+Then it dawned on meh. I was in leh dream . I went back to bed and forced all the tricks I've learned when I had sleep paralysis to jolt myself back awake. I tried for like, a good 4 minutes which is alot, also the nun people appeared in the window but im p sure that was just my fear creating visions, I did wake up alot of times, but I was still stuck sleeping (which is super frequent for me), and I did wake up fr, bcs my mom went in the cr and ang ingay nya and I had to make sure what I was experiencing was real this time💀💀 AND I had to stay still and pretend to sleep,
+
+
+ when I woke up I realized wtf it's been JUST one hour  and then I went back to bed and I dreamt of alot of things but I mostly forgot?? All i knew is that one of the moments there was I found my fucking right earbud💀💀💀💀💀🕊💀💀💀`,
+  },
+
+  vance6: {
+    title: "Placeholder Title | Vance",
+    text:  `I had a dream where my aunt gave birth and i changed the babies shitty diaper
+
+While I was grabbing wipes the baby rolled over and almost fucking fell on its face , but I caught it and she didn't notice
+
+Then I remembered the many cases of changing accidents that occur anually
+
+Also Mapua and imma were combined and me Keene Janna elizah were doing Halloween event bcs the whole school turned into a Halloween horror room
+
+And in the beginning of the dream, It was a lucid one, because I kept killing myself in the situations my dream puts me in
+
+There was one instance I was a surfer and I was surf-paddling to an island in STORMY weather in deep ocean but apparently I lost all sense of fear bcs I knew I was safe, I died because of rough waves
+
+
+Then it teleported me to new year in my terrace, and my neighbors were all lighting up fireworks and I jumped from roof to roof being annoying trying to get myself killed
+
+I also saw some obese person doing the same thing, and then I asked him if he's also lucid dreaming and going on a rampage suicide spree, but he said no
+
+I think this is one of the times I forsurezies asked an npc in my dream if I was in one`,
+  },
+
+  vance7: {
+    title: "Placeholder Titlw | Vance",
+    text: `I had a dream where RuPaul came to my house and season 9 queens were doing a challenge DOWNSTAIRS in our living room, and apparently, I'm Kim chi'ing because I am one of the queens this season
+
+I went upstairs to get glammed the fuck down and it was pretty realistic because I don't have anything, no gowns and shit, so it was basically an unconventional materials challenge for me, I had a black denim jeans over my shoulder, and a makeshift mini skirt God knows where It came from, and a US 12 size 4 inch heels idk where it also came from
+
+I did my makeup with sunscreen, dried up black poster paint smudged for my eyeshadow, and I actually looked nice with the lighting, also a wig miraculously got into my head, 
+
+Until I went downstairs and everybody disappeared, my mom saw me otw downstairs and asked what the fuck I was wearing but I didn't answer her questions
+
+Valeraine and my Lola were downstairs and my Lola got mad and told me to take off what I was wearing but I didn't really care and went straight to the other cr, and my mug was cakey as hell with white cast, because I was using sunscreen as foundation, anyway I fixed it by rubbing off my skin dry, and I looked... Moderately okay, then i just talked to valeraine about my look while my Lola doesn't gaf anymore and just knits on the living room`,
+  },
+
+  vance8: {
+    title: "Placeholder Title | Vance",
+    text: `Had a really bad nightmare I accidentally leaked my email and password for my Roblox acc
+
+Apparently I got viral because I was showing a screenshot of soemthing in my settings and it had my password and email on full display
+
+And I remember scrolling on dream twt and seeing my account with the headline"Roblox user Vixixry goes viral after accidentally leaving account details" and it had like 6k likes
+
+I started to panic and went in Roblox, I logged in and my password hasn't been changed but it's clear someone else was using my account since I looked diff, my robux was the same, AND someone changed the email, the whole dream I was trying to coherently change my password as multiple people log in and change shittin of things, 
+
+I also was in a tiktok video and th3vcomments were saying that I had a rich account and I was going thru something which is why I leaked it, I kid you nit I was about to reply and say literally you guys are making shit up I'm Vixixry and then it clicked that wait I'm fucking dreaming☠️
+
+I did a reality check and I could subconsciously feel my phone's next to me and I asked myself if I really did feel everything when I was getting to change it
+
+And then I woke up at 7 and slept again lol`,
   },
 
   jelia1: {
@@ -208,8 +303,75 @@ i then recognised that name from our school group chat bc she was always the one
   },
 
   niko3: {
-    title: "Niko - Dream #3 empty",
-    text: "Placeholder text.",
+    title: "NANDITO NANAMAN SI SAMANTHA R.(the r stands for rennaissance) LORENZO. | Niko",
+    text: `almost nobody wanted to perform for our christmas performance and she subtly hinted for me to volunteer. i thought she was asking me to perform ALONE so i refused.
+
+she got upset and i left the classroom because i dont want to be coerced into performing. i met monique outside and we went downstairs from the jhs building and hung out bc may booths/fair NANAMAN.
+
+we then started talking about what happened in the classroom and i was saying something along the words of “i mean yeah, i dont want to do it and its annoying that she was trying to make me perform but shes a good president and if only everyone put more effort into it..” i trailed off while monique was agreeing with me bc i noticed that we’re infront of sam and a few of her usual friends from irl. she was still upset lol and me and monique decided that we should go somewhere else
+
+if u guys remember the store that sells the hashbrowns, me and her went their and sat down infront of it (it was new seats that the dreamscape added, it wasnt the umbrella table) and for some odd fucking reason, paul salalila went up infront of us and he was tearing up??? sam, vance, and a few other boys followed suit with all of them crying/tearing up except vance lol.
+
+ig sam only got them as performers and was going to our class christmas performance right there. they started to play christmas music and all of you SUCKED at singing holy shit. i started to feel bad and quickly opened my phone to search the lyrics to sing with you guys but whenever i was close to finish typing in the search bar and clicking search, it moves to the next fucking song. one guys actually came up to help you all sing💀💀💀. this continues until you guys got too embarrassed and disappointed with yourselves and stopped singing. oh and the other guy has also left too at this point😭
+
+we then went back to the classroom for a science presentation and sumakto, my group(monique/jaime and keisha panti [old ihmcp batchmate, i think only vance knows her here]) was called by sir ramces(our grade 10 science teacher? not sure if thats his name) the moment me and monique/jaimie went inside. tbh di talaga kami yung first, we were just really late💀💀 anyways, dreamscape me was really nervous not bc i was presenting but bc i had ZERO preparation whatsoever. keisha was in charge of the intro and i was in charge of presentation EVERYTHING…when it was my turn, i look at my notes that were printed a few minutes earlier and they were suddenly handwritten in CURSIVE…..i was struggling to present with it and kept stumbling so i told sir ramces that we’ll go again in a nervous cheery tone lol. i initiated the intro this time but i still stumbled with my words a little bit. when i had finally gathered my thoughts, sir ramces stopped our presentation and told is na time na😭😭
+
+and then fsr the scene changed to us being in a room that looked like a miniature avr (imagine the size of a bathroom). basta the room was across the grade school library. everyone started to leave one by one. i said goodbye to monique and i was about to leave via gate 2 but when i checked my phone in my pocket, only the fuckass case was there????!? so i started to contemplate whether i should go home or go back to get my phone. you see, the problem that was going on in dreamscape niko’s mind was that their was a really violent ghost in that room and i had to pick between going back home and either telling my mom that i lost my phone or coming back the next to day with the chance of it not being there anymore OR going back now and risk dying. so i chose the 2nd option.
+
+i hurriedly went to the new, fancier ihmcp building to find people who can come with me.  it looked like a REALLY wide and livelier mapua. i went up to a guy and asked him. he agreed to accompany with no hesitation but the moment i specified that it was in the “old ihmcp area” (which is just normal ihmcp in da irl waking world), he was like “ah shit..” yet he still went with me. i got another guy to help me and the 3 of us went to the room. the ghost was already chasing us and we all ran away. i was too slow so the 2 boys got ahead of me and i was panicking bc the ghost was really close to catching me. they went back to match my pace tho lol`,
+  },
+
+  niko4: {
+    title: "Mapua-IHMCP Killer | Niko",
+    text: `there was like a killer on the loose and was chasing me down in a american suburban neighborhood. as i was running, i thought that i should yell for help and remembered that people would be hesitant to come out if i yelled "help" so i yelled "sunog". i then managed to escape by hiding in the back of a random house
+
+it cut to me in a airplane that was very horizontally wide and i think i sat down next to vamce and angelo acosta💀 i was still like panicking because i could FEEL that the killer was going to our direction. i could also hear people or the news or radio or something about the killer. and after just moments later before takeoff, people started randomly dying like the killer was invisible. i hurriedly tried to pack up my things and my dumbass dreamscape self took off hís shoes AND socks to slow him down so he was now struggling to put them back on.
+
+anyways i managed to leave and fsr our destination was a big ass classroom. i sat down next to vance and ██████ but i hated how ourb seats were so far back, that we would be one of the first ones to die💀 i also noticed ██████ ██████ coming in the room and i was thinking "fuckkk dont seat near me PLEASE". i then saw the other ██████ move seats so i moved to the front seats and tried to relax. i dont remember much anymore but i went to the "backstage" of the room and then i saw the actual face of the killer for the first time and it was fat black woman wearing a red fast food uniform with a sentient food delivery robot lol.
+
+so i out back to the classroom and was trying to find you guys while the killer was killing mapuans and immaculatians but i couldnt find jelia and vance was talking to one of the patlings like it was nothing lol so i lnstead of running to the exit like some of the students, i went to vamce and to drag him to the exit but then the killer started targeting me so i pushed the other students to her direction as sacrifices whenever she got close to me lol. one of the people i grabbed to sacrifice was laurence and when i realised that i was like "fuck that's laurence" and quickly let go and ran away lol`,
+  },
+
+  niko5: {
+    title: "PRINCE FUCKING DIES THEN GETS CAUGHT CHEATING | Niko",
+    text: `i had a dream where neil and the boys in the patlings found out prince was cheating because he drunkenly fell 2 stories down and they decided to check his fucking phone instead while he was passed out
+
+    they then decided to keep it a secret to bela
+
+then i think a few days later, i enter a room with bela, prince, neil, and francis and took prince’s phone and told bela he was cheating on her. francis and neil were clearly shocked bc they planned to keep it a secret but they didnt say anything
+
+dreamscape me honestly forgot where exactly the evidence was so i just gave bela the phone and made her look for it herself LOL
+
+then the dream changed scenes and now im in a mall or an airport in china with someone and i wanted to get food so we walked up to a stall to order. i said my order and the lady managing the stall was so rude and i couldnt understand a thing because she was CHINESE…
+
+i then saw a guy come into the stall who also managed it and he was nicer. i told him my order and this time i ordered a lot. the lady’s attitude changed and politely recommended me one of the items💀
+
+then i woke up`,
+  },
+
+  niko6: {
+    title: "White Haired Gay Boy | Niko",
+    text: `i had a dream where it started as me being friends with that white haired gay boy
+    
+the one thats paired up with the black haired guy and i knew something was suspicious about him so in the big ass mall we live in i tried to sneak into his room(that actually looked like a normal room) and i found a book that was definitely haunted
+
+i took and hurried back to my room because white haired gay boy was following me
+
+there was also pages of it scattered around the mall that i saw before getting the book and my mind immediately went “i have to get those pages”
+
+actually no the first dream i had was me and my mom shopping in a big ass supermarket lol then it went to my usual nightmares
+
+the scenery then turned into my family’s home. my mom and my sister were still the same as irl but my dad was different. ghosts and spirits started to roam our home and i had to ignore anything unusual my “family members” and other people do because its just the ghost mimicking them. you can get close to them but you have to COMPLETELY ignore them. they also werent the spirits who would jumpscare you all the time, they just kept staring and stalking but they did try to get closer. fsr we all didnt leave?? ig we had some kind of obligation to stop it in the small house and not anywhere else. for what felt like hours, i finally lifted the spirits away, my dumbass did something that brought them back and i have to deal with them again.
+
+i smoked a cigarettes bc i was so stressed lol
+
+also im forgetting key information about how the spirits work but its somethjng about objects
+
+whatever i’ll remember it in my next dream about it
+
+then the last scene was me hiding from fnaf characters and them catching me from my hiding spot💀💀 the one that i remember being caught was withered bonnie
+
+im pretty sure i dreamt of fnaf because i watched smosh play fnaf security breach last night💀`,
   },
 
   rant1: {

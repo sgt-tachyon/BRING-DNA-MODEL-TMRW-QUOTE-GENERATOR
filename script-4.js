@@ -33,10 +33,8 @@ async function loadTangents() {
 function parseTangents(text) {
   const result = {};
 
-  // Normalize line endings.
   text = text.replace(/\r\n/g, "\n").replace(/\r/g, "\n");
 
-  // Split the file into entries.
   const entries = text.split(/^---ENTRY---$/m);
 
   entries.forEach((entry) => {
@@ -44,7 +42,6 @@ function parseTangents(text) {
 
     if (!entry) return;
 
-    // Find the ID.
     const idMatch = entry.match(/^\[TANGENT:(.+?)\]\s*$/m);
 
     if (!idMatch) {
@@ -54,7 +51,6 @@ function parseTangents(text) {
 
     const id = idMatch[1].trim();
 
-    // Find the title.
     const titleMatch = entry.match(/^TITLE:(.*)$/m);
 
     if (!titleMatch) {
@@ -64,7 +60,6 @@ function parseTangents(text) {
 
     const title = titleMatch[1].trim();
 
-    // Find everything after the title.
     const titleIndex = entry.indexOf(titleMatch[0]);
 
     let body = entry
@@ -98,7 +93,6 @@ function showTangent(id) {
   document.getElementById("tangent-title").textContent =
     tangent.title;
 
-  // Convert newlines to HTML while safely escaping the text.
   document.getElementById("tangent-text").innerHTML =
     escapeHTML(tangent.text).replace(/\n/g, "<br>");
 }

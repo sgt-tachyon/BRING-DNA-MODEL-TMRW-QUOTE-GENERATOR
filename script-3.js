@@ -485,6 +485,98 @@ const galleryItems = [
     src: "gallery/oppressed-activist.png",
     tags: ["Photo", "Text"],
   },
+
+  {
+    type: "image",
+    title: "My Wednesday",
+    src: "gallery/my-wednesday.png",
+    tags: ["Photo"],
+  },
+
+  {
+    type: "image",
+    title: "Castro is King🔥",
+    src: "gallery/castro-king.png",
+    tags: ["Photo", "IHMCP"],
+  },
+
+  {
+    type: "image",
+    title: "Ash QT",
+    src: "gallery/ash-qt.png",
+    tags: ["Photo", "IHMCP"],
+  },
+
+  {
+    type: "image",
+    title: "Calc Feet",
+    src: "gallery/calc-feet.png",
+    tags: ["Photo"],
+  },
+
+  {
+    type: "image",
+    title: "yES ANAK",
+    src: "gallery/yes-anak.jpg",
+    tags: ["Photo", "IHMCP"],
+  },
+
+  {
+    type: "image",
+    title: "Offline Texting",
+    src: "gallery/offline-texting.png",
+    tags: ["Photo"],
+  },
+
+  {
+    type: "image",
+    title: "I CANNOT STOP LAUGHING AT THUS.....☠️☠️☠️☠️☠️👻☠️",
+    src: "gallery/jaeyisna-help.png",
+    tags: ["Photo", "Camera"],
+  },
+
+  {
+    type: "video",
+    title: "Vitor Edit",
+    src: "gallery/vitor-edit.mp4",
+    tags: ["Video", "Edit"],
+  },
+
+  {
+    type: "image",
+    title: "Nagaaral Ka Pa Ba",
+    src: "gallery/nagaaral-ka-paba.png",
+    tags: ["Photo", "Text"],
+  },
+
+  {
+    type: "image",
+    title: "Valentines Promo",
+    src: "gallery/valentines-promo.png",
+    tags: ["Photo"],
+  },
+
+  {
+    type: "video",
+    title: "Niko Pigtails",
+    src: "gallery/niko-pigtail.mp4",
+    tags: ["Video", "Edit"],
+  },
+
+  {
+    type: "video",
+    title: "Warrikk Glitch",
+    src: "gallery/warrikk-glitch.mp4",
+    tags: ["Video"],
+  },
+
+  {
+    type: "video",
+    title: "Kycide",
+    src: "gallery/kycide.mp4",
+    tags: ["Video", "Edit"],
+  },
+
 ];
 
 const audioItems = [
